@@ -1,5 +1,6 @@
 # backendtask1
-code with detailed descriptions:
+
+# code with detailed descriptions:
 url= input("Enter the url:\n")
 # url is inputted from the user
 response = urllib.request.urlopen(url)
